@@ -1,0 +1,2 @@
+# LexiLite
+NLP project 
